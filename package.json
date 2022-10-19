@@ -1,5 +1,5 @@
 {
-  "name": "input-ssn-mak",
+  "name": "input-ssn-mask",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
